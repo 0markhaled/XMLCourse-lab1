@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <breakfast>
+    <item>
+      <name>Omelette</name>
+      <description>A classic omelette made with three eggs and your choice of cheese and vegetables.</description>
+      <price>$8.99</price>
+    </item>
+    <item>
+      <name>Pancakes</name>
+      <description>A stack of fluffy pancakes served with butter and maple syrup.</description>
+      <price>$6.99</price>
+    </item>
+    <item>
+      <name>Eggs Benedict</name>
+      <description>A classic brunch dish with poached eggs, Canadian bacon, and hollandaise sauce on an English muffin.</description>
+      <price>$10.99</price>
+    </item>
+  </breakfast>
+  <appetizer>
+    <item>
+      <name>Fried Calamari</name>
+      <description>Crispy fried calamari rings served with a spicy marinara sauce.</description>
+      <price>$12.99</price>
+    </item>
+    <item>
+      <name>Nachos</name>
+      <description>Crispy tortilla chips topped with melted cheese, jalapenos, and your choice of beef or chicken.</description>
+      <price>$8.99</price>
+    </item>
+    <item>
+      <name>Cheese Dip</name>
+      <description>A creamy cheese dip served with warm tortilla chips.</description>
+      <price>$6.99</price>
+    </item>
+  </appetizer>
+  <dinner>
+    <item>
+      <name>Sandwich</name>
+      <description>Your choice of turkey, ham, or roast beef with lettuce, tomato, and mayo on your choice of bread.</description>
+      <price>$9.99</price>
+    </item>
+    <item>
+      <name>Steak</name>
+      <description>A juicy grilled steak served with roasted potatoes and seasonal vegetables.</description>
+      <price>$24.99</price>
+    </item>
+    <item>
+      <name>Beef Stew</name>
+      <description>A hearty stew made with tender chunks of beef, carrots, potatoes, and onions.</description>
+      <price>$14.99</price>
+    </item>
+  </dinner>
+</menu>
